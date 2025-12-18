@@ -37,9 +37,9 @@ pip-delete-this-directory.txt
 venv/
 
 # Project specific
-videos_s.json  # исходные данные
-videos.json    # исходные данные
-config.py      # конфиги с паролями
+videos_s.json
+videos.json
+config.py
 
 # Temp
-/temp
+temp/

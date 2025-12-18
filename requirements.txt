@@ -1,2 +1,8 @@
-sqlalchemy[asyncio]
-asyncpg
+aiogram==3.10.0
+asyncpg==0.29.0
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+openai==1.12.0
+pydantic==2.5.0
+dateparser==1.2.0
+pytz==2023.3.post1
